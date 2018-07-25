@@ -1,2 +1,6 @@
-# hello-world
-c basics
+main()
+{
+clrscr();
+printf("hello world");
+getch();
+}
